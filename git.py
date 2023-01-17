@@ -31,6 +31,6 @@
 #7) git checkout test ( swapped to test branch)
 #8) git status ( modification shows here) 
 #9) git add . ( Files will added)
-#10) git git remote add origin https://github.com/karnatinithin98/python.gi   ( Repo link)
+#10)git remote add origin https://github.com/karnatinithin98/python.gi   ( Repo link)
 #11)git push -u origin test
 # after commit only we can create new branch
